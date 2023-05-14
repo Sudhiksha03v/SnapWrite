@@ -1,5 +1,4 @@
-# SnapWrite
-This project is a simple note taking app made with flutter and dart.
+SnapWrite is a simple note taking app made with the flutter framework powered by Dart.
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
